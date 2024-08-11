@@ -39,6 +39,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 <div>
   <a href="https://josenbobby.com/configure-sql-server-in-docker-in-mac/" target="_blank">Confgure SQL server in docker for Mac</a>
+  <br>
   <a href="https://josenbobby.com/implementing-parallel-execution-in-c/" target="_blank">Parallel Executions in CSharp</a>
 </div>
 
