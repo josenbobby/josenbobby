@@ -2,8 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <img src="![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjosenbobby%2F)
-" alt="LinkedIn Badge"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjosenbobby%2F">
 </div>
 <h1 align="center">
   Hi there
