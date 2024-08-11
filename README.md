@@ -17,7 +17,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭 I’m currently working as Senior Engineer on backend applications with micro-services architecture in Azure
 - 🌱 I’m currently learning Machine Learning with focus on Gen AI capabilities of Azure
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjosenbobby%2F)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjosenbobby%2F)
 
 ---
 
