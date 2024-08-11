@@ -37,8 +37,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<div>
+  <a href="https://josenbobby.com/configure-sql-server-in-docker-in-mac/" target="_blank">Confgure SQL server in docker for Mac</a>
+  <a href="https://josenbobby.com/implementing-parallel-execution-in-c/" target="_blank">Parallel Executions in CSharp</a>
+</div>
 
 <!--
 **josenbobby/josenbobby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
