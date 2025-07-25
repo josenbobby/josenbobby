@@ -1,59 +1,150 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+# Hi, I'm Bobby Jose 👋
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josenbobby/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josenbobby@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/josenbobby)
+  
 </div>
-<div id="badges" align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjosenbobby%2F">
+
+## 👨‍💻 Senior Software Architect | 10+ Years Experience
+
+I'm a passionate software architect and developer based in Edmonton, Canada, with over a decade of experience spanning finance, aerospace, and digital workplace solutions. I specialize in building scalable cloud-native applications and have a proven track record of delivering enterprise-grade solutions.
+
+### 🚀 Featured Project: Glucoplate
+
+<div align="center">
+  <a href="https://github.com/josenbobby/Glucoplate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josenbobby&repo=Glucoplate&theme=dark" />
+  </a>
 </div>
-<h1 align="center">
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
+**Glucoplate** is my latest personal project - a comprehensive smart living assistant that started as a diabetes management tool and evolved into a full household expense tracking system. 
+
+#### 🔧 Tech Stack:
+- **Backend**: .NET 9, ASP.NET Core, Entity Framework Core, PostgreSQL
+- **Frontend**: React 18, TypeScript, Vite, Tailwind CSS
+- **Cloud**: Azure Container Apps, Azure Service Bus, Azure Blob Storage
+- **AI Integration**: Azure Cognitive Services, OpenAI GPT, Claude AI
+- **Auth**: Auth0
+- **CI/CD**: GitHub Actions with self-hosted runners
+
+#### ✨ Key Features:
+- 📊 Smart meal analysis using AI-powered image recognition
+- 💰 Universal expense tracking with 500+ hierarchical categories
+- 🔍 Receipt parsing with OCR and AI
+- 📱 Progressive Web App with offline support
+- 🎯 Smart pantry management with inventory tracking and expiration alerts
+- 📈 Comprehensive analytics and insights
+
+[View Live Demo](https://www.glucoplate.com) | [Documentation](https://github.com/josenbobby/Glucoplate/tree/main/docs)
 
 ---
 
-### :man_technologist: About Me :
+## 💼 Professional Experience
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> living in Edmonton, Canada.
+### Senior Software Developer @ Igloo Software
+*February 2022 - Present | Toronto, ON*
 
-- 🔭 I’m currently working as Senior Engineer on backend applications with micro-services architecture in Azure
-- 🌱 I’m currently learning Machine Learning with focus on Gen AI capabilities of Azure
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josenbobby/)
+- 🏗️ Architecting event-driven microservices using Azure Functions and Service Bus
+- 🔔 Developed multi-channel notification system supporting email, in-app notifications, and SMS delivery
+- 👥 Designed extensible user profile system with custom fields, enabling dynamic group membership and advanced segmentation
+- 🤖 Integrated OpenAI APIs for dynamic content generation
+- 🧠 Built recommendation engine using Azure ML Designer
+- 🔐 Implemented enterprise SSO with Okta and Azure AD
 
----
+### Senior Developer @ Industrial Alliance
+*February 2016 - February 2022 | Toronto, ON*
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" title="AzureSQL" alt="AzureSQL" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp; 
+- 📄 Led document service project with Docker containerized APIs
+- 💰 Developed Prosperiplan financial planning software
+- ☸️ Pioneered Kubernetes deployment POC using Rancher
+- 🔗 Integrated with Kafka for event streaming
+
+### Technology Lead @ Infosys
+*April 2006 - May 2014 | Montreal, QC*
+
+- ✈️ Technical consultant at Bombardier Aerospace
+- 🛠️ Automated aerospace design tools (Catia V5)
+- 📊 Implemented ERP systems with SAP integration
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+### Languages & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Databases & Messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Azure Service Bus](https://img.shields.io/badge/Service_Bus-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### AI & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![ML.NET](https://img.shields.io/badge/ML.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+</div>
+
+## 🏆 Certifications
+
+<div align="center">
+
+![Azure Solutions Architect Expert](https://img.shields.io/badge/Azure_Solutions_Architect_Expert-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white) 
+![Azure Developer Associate](https://img.shields.io/badge/Azure_Developer_Associate-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure Administrator Associate](https://img.shields.io/badge/Azure_Administrator_Associate-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+</div>
+
+- **Microsoft Azure Solutions Architect Expert** (AZ-305) - Jan 2024
+- **Microsoft Azure Administrator Associate** (AZ-104) - Jan 2024
+- **Microsoft Azure Developer Associate** (AZ-204) - Jan 2023
+- **AWS Solutions Architect Associate** - Nov 2019
+- **MCP: Developing ASP.Net MVC Applications** - Jan 2016
+- **MCP: Programming in C#** - Oct 2015
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=josenbobby&show_icons=true&theme=dark&hide_border=true" alt="Bobby's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josenbobby&theme=dark&hide_border=true" alt="Bobby's GitHub Streak" />
+</div>
+
+## 🌱 Current Focus
+
+- 🤖 Exploring Gen AI capabilities with Azure OpenAI and LangChain
+- 🏗️ Building event-driven architectures with Azure Functions
+- 📱 Developing Progressive Web Apps with React and TypeScript
+- 🧠 Machine Learning applications in healthcare and finance
+
+## 📫 Let's Connect!
+
+I'm always interested in discussing new opportunities, innovative projects, or just having a chat about technology. Feel free to reach out!
+
+<div align="center">
+  
+  📧 **Email**: josenbobby@gmail.com  
+  📱 **Phone**: 780-700-8476  
+  📍 **Location**: Edmonton, AB, Canada
+  
 </div>
 
 ---
 
-### :writing_hand: Blog Posts :
-<div>
-  <a href="https://josenbobby.com/configure-sql-server-in-docker-in-mac/" target="_blank">Confgure SQL server in docker for Mac</a>
-  <br>
-  <a href="https://josenbobby.com/implementing-parallel-execution-in-c/" target="_blank">Parallel Executions in CSharp</a>
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/josenbobby">josenbobby</a></i>
 </div>
-
-<!--
-**josenbobby/josenbobby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
