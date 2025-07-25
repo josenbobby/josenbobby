@@ -71,32 +71,30 @@ I'm a passionate software architect and developer based in Edmonton, Canada, wit
 
 ## 🛠️ Technical Skills
 
-<div align="center">
-
 ### Languages & Frameworks
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,typescript,python,javascript" />
+</p>
 
 ### Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,githubactions,git,github" />
+</p>
 
-### Databases & Messaging
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Azure Service Bus](https://img.shields.io/badge/Service_Bus-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+### Databases & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,postman,vscode,visualstudio" />
+</p>
 
-### AI & Machine Learning
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![ML.NET](https://img.shields.io/badge/ML.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+### Additional Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,tailwind,vite,linux,bash,powershell" />
+</p>
 
+<div align="center">
+  
+  **Also experienced with**: SQL Server • Azure Service Bus • Entity Framework Core • xUnit • Azure Functions • Azure AI Services • OpenAI API • Auth0 • Kafka • RabbitMQ
+  
 </div>
 
 ## 🏆 Certifications
