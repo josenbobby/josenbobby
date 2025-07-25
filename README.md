@@ -66,30 +66,26 @@ I'm a passionate software architect and developer based in Edmonton, Canada, wit
 ## 🛠️ Technical Skills
 
 ### Languages & Frameworks
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,react,typescript,python,javascript" />
 </p>
 
 ### Cloud & DevOps
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,githubactions,git,github" />
 </p>
 
 ### Databases & Tools
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,postman,vscode,visualstudio" />
 </p>
 
 ### Additional Technologies
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,tailwind,vite,linux,bash,powershell" />
 </p>
 
-<div align="center">
-  
-  **Also experienced with**: SQL Server • Azure Service Bus • Entity Framework Core • xUnit • Azure Functions • Azure AI Services • OpenAI API • Auth0 • Kafka • RabbitMQ
-  
-</div>
+**Also experienced with**: SQL Server • Azure Service Bus • Entity Framework Core • xUnit • Azure Functions • Azure AI Services • OpenAI API • Auth0 • Kafka • RabbitMQ
 
 ## 🏆 Certifications
 
@@ -108,13 +104,6 @@ I'm a passionate software architect and developer based in Edmonton, Canada, wit
 - **AWS Solutions Architect Associate** - Nov 2019
 - **MCP: Developing ASP.Net MVC Applications** - Jan 2016
 - **MCP: Programming in C#** - Oct 2015
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josenbobby&show_icons=true&theme=dark&hide_border=true" alt="Bobby's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josenbobby&theme=dark&hide_border=true" alt="Bobby's GitHub Streak" />
-</div>
 
 ## 🌱 Current Focus
 
