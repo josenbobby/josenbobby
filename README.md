@@ -76,6 +76,8 @@ I'm a passionate software architect and developer based in Edmonton, Canada, wit
 </p>
 
 ### Databases & Tools
+### Databases & Tools
+<img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" title="AzureSQL" alt="AzureSQL" width="40" height="40"/>&nbsp; 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,postman,vscode,visualstudio" />
 </p>
