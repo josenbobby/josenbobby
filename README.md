@@ -15,8 +15,8 @@ I'm a passionate software architect and developer based in Edmonton, Canada, wit
 ### 🚀 Featured Project: Glucoplate
 
 <div align="center">
-  <a href="https://github.com/josenbobby/Glucoplate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josenbobby&repo=Glucoplate&theme=dark" />
+  <a href="https://www.glucoplate.com">
+    <img src="![Glucoplate](./glucoplate-logo.png)" alt="Glucoplate" width="500" />
   </a>
 </div>
 
