@@ -77,7 +77,7 @@ I'm a passionate software architect and developer based in Edmonton, Canada, wit
 
 ### Databases & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sql,postgres,redis,mongodb,postman,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,postman,vscode,visualstudio" />
 </p>
 
 ### Additional Technologies
