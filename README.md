@@ -14,12 +14,6 @@ I'm a passionate software architect and developer based in Edmonton, Canada, wit
 
 ### 🚀 Featured Project: Glucoplate
 
-<div align="center">
-  <a href="https://www.glucoplate.com">
-    <img src="![Glucoplate](./glucoplate-logo.png)" alt="Glucoplate" width="500" />
-  </a>
-</div>
-
 **Glucoplate** is my latest personal project - a comprehensive smart living assistant that started as a diabetes management tool and evolved into a full household expense tracking system. 
 
 #### 🔧 Tech Stack:
