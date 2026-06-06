@@ -32,7 +32,7 @@ I'm a passionate software architect and developer based in Edmonton, Canada, wit
 - 🎯 Smart pantry management with inventory tracking and expiration alerts
 - 📈 Comprehensive analytics and insights
 
-[View Live Demo](https://www.glucoplate.com) | [Documentation](https://github.com/josenbobby/Glucoplate/tree/main/docs)
+[View Live Demo](https://www.glucoplate.com)
 
 ---
 
