@@ -120,7 +120,7 @@ I'm always interested in discussing new opportunities, innovative projects, or j
   
   📧 **Email**: josenbobby@gmail.com  
   📱 **Phone**: 780-700-8476  
-  📍 **Location**: Edmonton, AB, Canada
+  📍 **Location**: Toronto, ON, Canada
   
 </div>
 
