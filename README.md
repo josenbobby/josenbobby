@@ -119,7 +119,6 @@ I'm always interested in discussing new opportunities, innovative projects, or j
 <div align="center">
   
   📧 **Email**: josenbobby@gmail.com  
-  📱 **Phone**: 780-700-8476  
   📍 **Location**: Toronto, ON, Canada
   
 </div>
