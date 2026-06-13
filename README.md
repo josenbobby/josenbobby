@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Senior Software Architect | 10+ Years Experience
 
-I'm a passionate software architect and developer based in Edmonton, Canada, with over a decade of experience spanning finance, aerospace, and digital workplace solutions. I specialize in building scalable cloud-native applications and have a proven track record of delivering enterprise-grade solutions.
+I'm a passionate software architect and developer based in Toronto, Canada, with over a decade of experience spanning finance, aerospace, and digital workplace solutions. I specialize in building scalable cloud-native applications and have a proven track record of delivering enterprise-grade solutions.
 
 ### 🚀 Featured Project: Glucoplate
 
